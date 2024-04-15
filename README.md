@@ -1,3 +1,5 @@
+![Titanic Disaster](https://github.com/sakhareni/Titanic-Machine-Learning-from-Disaster-XGBoost/blob/main/DALL%C2%B7E%202024-04-14%2020.25.17%20-%20A%20dramatic%20scene%20depicting%20the%20Titanic%20disaster%20in%
+
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
